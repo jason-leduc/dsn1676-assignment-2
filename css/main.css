@@ -35,16 +35,22 @@ html {
     left: calc(50% - 150px);
 }
 
+.clock-face:hover .hand-hour {
+    
+}
+
 .hand {
     width: 14px;
-    left: 50% - 7px;
-    bottom: 50%;
+    position: absolute;
+    left: calc(50% - 7px);
+    bottom: calc(150px);
 }
 
 .center {
     width: 28px;
-    bottom: calc(50% - 14px);
-    left: calc(50% - 14px);  
+    position: absolute;
+    left: clac(150px - 14px);
+    bottom: clac(150px - 14px);
 }
 
 
