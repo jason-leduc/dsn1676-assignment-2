@@ -26,17 +26,10 @@ html {
   position: relative;
 }
 
-
-
-
-
-
-
-
 .clock-face {
     height: 300px;
     width: 300px;
-    background-image: url("../img/clock-face.svg");
+    background-image: url(../images/clock-face.svg);
     position: relative;
     top: 135px;
     left: calc(50% - 150px);
