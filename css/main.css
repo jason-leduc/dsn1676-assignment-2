@@ -41,6 +41,21 @@ html {
     transition: background-color, color, 200ms;
 }
 
+.button:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.green {
+    background-color: #000;
+    left: clac(50% - 135px);
+}
+
+.red {
+    background-color: #F00;
+    right: clac(50% - 135px);
+}
+
 .clock-face {
     height: 300px;
     width: 300px;
