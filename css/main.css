@@ -26,6 +26,21 @@ html {
   position: relative;
 }
 
+.button {
+    display: inline-block;
+    position: absolute;
+    margin: 20px;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    text-align: center;
+    line-height: 100px;
+    text-decoration: none;
+    color: #fff;
+    transition: background-color, color, 200ms;
+}
+
 .clock-face {
     height: 300px;
     width: 300px;
