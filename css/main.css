@@ -77,11 +77,11 @@ html {
     transition: all 6s linear;
 }
 
-.clock-face:hover .hand-hour {
+.clock-face:target .hand-hour {
     transform: rotate(360deg);
 }
 
-.clock-face:hover .hand-minute {
+.clock-face:target .hand-minute {
     transform: rotate(4320deg);
 }
 
