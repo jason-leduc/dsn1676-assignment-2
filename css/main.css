@@ -38,7 +38,7 @@ html {
     line-height: 100px;
     text-decoration: none;
     color: #fff;
-    transition: background-color, color, 200ms;
+    transition: background-color, color, 500ms;
 }
 
 .button:hover {
@@ -48,12 +48,12 @@ html {
 
 .green {
     background-color: #000;
-    left: clac(50% - 135px);
+    left: calc(50% - 135px);
 }
 
 .red {
     background-color: #F00;
-    right: clac(50% - 135px);
+    right: calc(50% - 135px);
 }
 
 .clock-face {
