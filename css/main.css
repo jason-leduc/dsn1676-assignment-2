@@ -47,7 +47,7 @@ html {
 }
 
 .green {
-    background-color: #000;
+    background-color: green;
     left: calc(50% - 135px);
 }
 
