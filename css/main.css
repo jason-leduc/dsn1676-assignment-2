@@ -23,6 +23,7 @@ html {
 }
 
 .clock-face {
+    background-image: url(../images/clock-face.svg)
   height: 300px;
   width: 300px;
 }
@@ -34,3 +35,5 @@ html {
 .center {
   width: 28px;
 }
+
+
