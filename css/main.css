@@ -95,8 +95,8 @@ html {
 .center {
     width: 28px;
     position: absolute;
-    left: clac(150px - 14px);
-    bottom: clac(150px - 14px);
+    left: calc(150px - 14px);
+    bottom: calc(150px - 14px);
 }
 
 
