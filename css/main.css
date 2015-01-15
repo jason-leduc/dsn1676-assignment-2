@@ -52,7 +52,7 @@ html {
 }
 
 .red {
-    background-color: #F00;
+    background-color: red;
     right: calc(50% - 135px);
 }
 
